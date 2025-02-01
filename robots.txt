@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://cijokali.github.io/FgVCa.txt
+Sitemap: https://cijokali.github.io/KzrxI.txt
+Sitemap: https://cijokali.github.io/MwNvc.txt
+Sitemap: https://cijokali.github.io/XnfKk.txt
+Sitemap: https://cijokali.github.io/ewbfJ.txt
+Sitemap: https://cijokali.github.io/gVdrp.txt
+Sitemap: https://cijokali.github.io/mTINE.txt
+Sitemap: https://cijokali.github.io/qezDo.txt
+Sitemap: https://cijokali.github.io/qnLWD.txt
+Sitemap: https://cijokali.github.io/yGIpL.txt
